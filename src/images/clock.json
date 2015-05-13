@@ -1,0 +1,48 @@
+{"frames": {
+
+"face-centre.png":
+{
+	"frame": {"x":2,"y":2,"w":11,"h":11},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":11,"h":11},
+	"sourceSize": {"w":11,"h":11},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"face.png":
+{
+	"frame": {"x":15,"y":2,"w":350,"h":250},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":350,"h":250},
+	"sourceSize": {"w":350,"h":250},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"hour-hand.png":
+{
+	"frame": {"x":367,"y":2,"w":10,"h":108},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":10,"h":108},
+	"sourceSize": {"w":10,"h":108},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"minute-hand.png":
+{
+	"frame": {"x":379,"y":2,"w":10,"h":167},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":10,"h":167},
+	"sourceSize": {"w":10,"h":167},
+	"pivot": {"x":0.5,"y":0.5}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "clock.png",
+	"format": "RGBA8888",
+	"size": {"w":391,"h":254},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:0cf72fac9b4bd8a11180da6ae642980e:77e28924ddebabb5e121b2d501a2a200:1fd605e8c9d2e55b7e8698a23ea97a4c$"
+}
+}

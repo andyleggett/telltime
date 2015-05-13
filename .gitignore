@@ -1,0 +1,19 @@
+# Sublime
+*.sublime-project
+*.sublime-workspace
+
+# OsX
+.DS_Store
+Icon?
+._*
+.Spotlight-V100
+.Trashes
+
+# nodejs npm modules
+/node_modules
+
+# Build files
+/build/*
+
+* SASS
+.sass-cache
