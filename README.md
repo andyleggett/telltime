@@ -1,2 +1,2 @@
-# telltime2
-Phaser revamp of tell time game
+# telltime
+Phaser time telling game
